@@ -1,4 +1,5 @@
 ```text
+              
 #    #  ####  
 ##  ## #    # 
 # ## # #      
@@ -8,25 +9,25 @@
               
 ```
 ```text
-**Package:** mc  
-**Version:** 3:4.8.33-1+deb13u1  
-**Priority:** optional  
-**Section:** utils  
-**Maintainer:** Dmitry Smirnov <onlyjob@debian.org>  
-**Installed-Size:** 1 628 kB  
-**Provides:** mcedit  
-**Depends:** libc6 (>= 2.38), libext2fs2t64 (>= 1.37), libglib2.0-0t64 (>= 2.78.0), libgpm2 (>= 1.20.7), libslang2 (>= 2.2.4), libssh2-1t64 (>= 1.2.8), mc-data (= 3:4.8.33-1+deb13u1)  
-**Recommends:** mailcap, perl, sensible-utils, unzip  
-**Suggests:** antiword, arc | arcanist, arj, binutils, bzip2, cabextract, catdoc, texlive-binaries, clzip | lunzip | lzd | lzip | lziprecover | minilzip | pdlzip | plzip, cpio, ctorrent, dbview, default-jdk-headless, djview4, djvulibre-bin, elinks, epub-utils | ncbi-entrez-direct, exif, file, genisoimage, gettext, ghostscript, glade, gputils, groff-base, gv, imagemagick, info, jlha-utils | lhasa, kchmviewer, libaspell-dev, libbatik-java, libchm-bin, liblz4-tool, libxml2-utils, links2, links | w3m | lynx, lyx, xz-utils, man-db, mikmod, mpg321, mplayer, odt2txt | unoconv, p7zip-full, par2, poedit | potool, poppler-utils, procyon-decompiler, python3:any, python3-boto, python3-tz, rar, rpm, sox, sqlite3, timidity, unace | unace-nonfree, unalz, unar, unrar | unrar-free, vorbis-tools, wimtools, wv, xpdf | pdf-viewer, xpmutils, zip, zstd  
-**Homepage:** https://www.midnight-commander.org  
-**Tag:** admin::filesystem, devel::lang:perl, devel::library, implemented-in::c,  
+Package: mc  
+Version: 3:4.8.33-1+deb13u1  
+Priority: optional  
+Section: utils  
+Maintainer: Dmitry Smirnov <onlyjob@debian.org>  
+Installed-Size: 1 628 kB  
+Provides: mcedit  
+Depends: libc6 (>= 2.38), libext2fs2t64 (>= 1.37), libglib2.0-0t64 (>= 2.78.0), libgpm2 (>= 1.20.7), libslang2 (>= 2.2.4), libssh2-1t64 (>= 1.2.8), mc-data (= 3:4.8.33-1+deb13u1)  
+Recommends: mailcap, perl, sensible-utils, unzip  
+Suggests: antiword, arc | arcanist, arj, binutils, bzip2, cabextract, catdoc, texlive-binaries, clzip | lunzip | lzd | lzip | lziprecover | minilzip | pdlzip | plzip, cpio, ctorrent, dbview, default-jdk-headless, djview4, djvulibre-bin, elinks, epub-utils | ncbi-entrez-direct, exif, file, genisoimage, gettext, ghostscript, glade, gputils, groff-base, gv, imagemagick, info, jlha-utils | lhasa, kchmviewer, libaspell-dev, libbatik-java, libchm-bin, liblz4-tool, libxml2-utils, links2, links | w3m | lynx, lyx, xz-utils, man-db, mikmod, mpg321, mplayer, odt2txt | unoconv, p7zip-full, par2, poedit | potool, poppler-utils, procyon-decompiler, python3:any, python3-boto, python3-tz, rar, rpm, sox, sqlite3, timidity, unace | unace-nonfree, unalz, unar, unrar | unrar-free, vorbis-tools, wimtools, wv, xpdf | pdf-viewer, xpmutils, zip, zstd  
+Homepage: https://www.midnight-commander.org  
+Tag: admin::filesystem, devel::lang:perl, devel::library, implemented-in::c,  
  implemented-in::perl, interface::commandline, interface::text-mode,  
  role::devel-lib, role::program, scope::application, scope::utility,  
  suite::gnu, uitoolkit::ncurses, use::browsing, use::editing,  
  use::organizing, works-with::archive, works-with::file  
-**Download-Size:** 550 kB  
-**APT-Sources:** http://deb.debian.org/debian trixie/main amd64 Packages  
-**Description:** Midnight Commander - многофункциональный диспетчер файлов  
+Download-Size: 550 kB  
+APT-Sources: http://deb.debian.org/debian trixie/main amd64 Packages  
+Description: Midnight Commander - многофункциональный диспетчер файлов  
  GNU Midnight Commander – полноэкранный текстовый файловый менеджер.  
  В нём используется двухпанельный интерфейс и встроенная командная оболочка.  
  Также имеется встроенный редактор с подсветкой синтаксиса и просмотрщик,  
