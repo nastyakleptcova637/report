@@ -1,3 +1,4 @@
+```text
 #    #  ####  
 ##  ## #    # 
 # ## # #      
@@ -5,7 +6,7 @@
 #    # #    # 
 #    #  ####  
               
-
+```
 ```text
 **Package:** mc  
 **Version:** 3:4.8.33-1+deb13u1  
@@ -136,6 +137,7 @@ dpkg-maintscript-helper mv_conffile /etc/mc/mc.keymap.default /etc/mc/mc.default
 
 ```
 ### Файл postrm
+```text
 #!/bin/sh
 set -e
 
